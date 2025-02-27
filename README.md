@@ -8,7 +8,7 @@ En esta práctica, he aprendido los fundamentos de HTML para construir una pági
 
 - Una cabecera con el título de la aplicación.
 - Una sección principal con imágenes de gatos.
-- Un formulario para que los usuarios puedan suscribirse a la aplicación.
+- Un formulario
 - Enlaces a recursos externos relacionados con gatos.
 
 ## Tecnologías Utilizadas
